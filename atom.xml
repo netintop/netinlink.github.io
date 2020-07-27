@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://netin.github.io</id>
     <title>Gridea</title>
-    <updated>2020-07-27T12:45:41.550Z</updated>
+    <updated>2020-07-27T12:54:50.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://netin.github.io"/>
     <link rel="self" href="https://netin.github.io/atom.xml"/>
@@ -10,6 +10,33 @@
     <logo>https://netin.github.io/images/avatar.png</logo>
     <icon>https://netin.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[星享俱乐部入会指南]]></title>
+        <id>https://netin.github.io/post/xing-xiang-ju-le-bu-ru-hui-zhi-nan/</id>
+        <link href="https://netin.github.io/post/xing-xiang-ju-le-bu-ru-hui-zhi-nan/">
+        </link>
+        <updated>2020-07-20T12:42:26.000Z</updated>
+        <content type="html"><![CDATA[<p>如果你经常会光临星巴克，加入星享俱乐部会是一个不错的选择。</p>
+<h1 id="1注册">1.注册</h1>
+<h2 id="11安装星巴克中国app">1.1安装星巴克中国APP</h2>
+<p>访问星巴克中国官网下载星巴克APP（点击此处直达）</p>
+<h2 id="12注册账号">1.2注册账号</h2>
+<p>点击页面下方立即登录</p>
+<p>输入手机号，获取验证码进行注册</p>
+<p>注册完成后，默认为银星级会员</p>
+<h1 id="2会员升级">2.会员升级</h1>
+<p>绑定单张面额200元及以上的星礼卡可以直接升级玉星级会员，永久有效（违规除外）</p>
+<p>①点击“星礼卡”</p>
+<p>②点击上方“购买星礼卡”，挑选喜爱的版面并点击进入</p>
+<p>③此时金额默认为300元，点击300元修改为200元，点击购买支付，稍后将绑定到该账户</p>
+<p>（星礼卡绑定到账户的次日会到账一张“玉星晋级饮品券”，7天内有效，可到星巴克门店柜台兑换一杯中杯饮品，可加3元升大杯，加6元升超大杯）</p>
+<p>*不购买200元及以上面额星礼卡升级到玉星级会员需累积四颗等级星星（消费200元）才可升级到玉星级会员，升级后减去四颗等级星星</p>
+<h1 id="3累积星星">3.累积星星</h1>
+<p>账户升级到玉星级后1年内，累积满1颗等级星星，次年注册日会到账一张生日饮品券，生日当天生效，有效期7天，到店兑换。</p>
+<p>（建议在生日月前注册，否则生日饮品券须到账后次年生日生效）</p>
+<p>消费每50元积1颗星，通过“啡快”或星礼卡支付每50元积1.2颗星</p>
+<center>-未经授权，严禁转载-</center>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://netin.github.io/post/hello-gridea/</id>
