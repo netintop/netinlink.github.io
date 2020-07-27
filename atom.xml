@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://netin.github.io</id>
     <title>NETIN</title>
-    <updated>2020-07-27T13:18:19.034Z</updated>
+    <updated>2020-07-27T16:19:58.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://netin.github.io"/>
     <link rel="self" href="https://netin.github.io/atom.xml"/>
@@ -16,27 +16,6 @@
         <link href="https://netin.github.io/post/siqSn96ay/">
         </link>
         <updated>2020-07-20T12:42:26.000Z</updated>
-        <content type="html"><![CDATA[<p>如果你经常会光临星巴克，加入星享俱乐部会是一个不错的选择。</p>
-<h1 id="1注册">1.注册</h1>
-<h2 id="11安装星巴克中国app">1.1安装星巴克中国APP</h2>
-<p>访问星巴克中国官网下载星巴克APP<a href="https://www.starbucks.com.cn/apps/">（点击此处直达）</a><br>
-<img src="https://netin.github.io/post-images/1595855763339.png" alt="" loading="lazy"></p>
-<h2 id="12注册账号">1.2注册账号</h2>
-<p>点击页面下方立即登录</p>
-<p>输入手机号，获取验证码进行注册</p>
-<p>注册完成后，默认为银星级会员</p>
-<h1 id="2会员升级">2.会员升级</h1>
-<p>绑定单张面额200元及以上的星礼卡可以直接升级玉星级会员，永久有效（违规除外）</p>
-<p>①点击“星礼卡”</p>
-<p>②点击上方“购买星礼卡”，挑选喜爱的版面并点击进入</p>
-<p>③此时金额默认为300元，点击300元修改为200元，点击购买支付，稍后将绑定到该账户</p>
-<p>（星礼卡绑定到账户的次日会到账一张“玉星晋级饮品券”，7天内有效，可到星巴克门店柜台兑换一杯中杯饮品，可加3元升大杯，加6元升超大杯）</p>
-<p>*不购买200元及以上面额星礼卡升级到玉星级会员需累积四颗等级星星（消费200元）才可升级到玉星级会员，升级后减去四颗等级星星</p>
-<h1 id="3累积星星">3.累积星星</h1>
-<p>账户升级到玉星级后1年内，累积满1颗等级星星，次年注册日会到账一张生日饮品券，生日当天生效，有效期7天，到店兑换。</p>
-<p>（建议在生日月前注册，否则生日饮品券须到账后次年生日生效）</p>
-<p>消费每50元积1颗星，通过“啡快”或星礼卡支付每50元积1.2颗星</p>
-<center>-未经授权，严禁转载-</center>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
@@ -49,25 +28,6 @@
 ]]></summary>
         <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
 ✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
 ]]></content>
     </entry>
 </feed>
