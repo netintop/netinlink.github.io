@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://netinlink.github.io</id>
     <title>NETIN</title>
-    <updated>2020-08-30T06:31:05.584Z</updated>
+    <updated>2020-08-30T06:32:27.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://netinlink.github.io"/>
     <link rel="self" href="http://netinlink.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>http://netinlink.github.io/images/avatar.png</logo>
     <icon>http://netinlink.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, NETIN</rights>
+    <entry>
+        <title type="html"><![CDATA[中国银行跨境通借记卡申请过程]]></title>
+        <id>http://netinlink.github.io/post/G1iy7OJ3k/</id>
+        <link href="http://netinlink.github.io/post/G1iy7OJ3k/">
+        </link>
+        <updated>2020-07-25T12:40:16.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[星享俱乐部入会指南]]></title>
         <id>http://netinlink.github.io/post/siqSn96ay/</id>
